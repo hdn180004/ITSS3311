@@ -1,4 +1,3 @@
-//https://github.com/hdn180004/ITSS3311/blob/master/Equality.java
 import java.util.Arrays;
 import static java.lang.System.*;
 import java.util.Scanner;
